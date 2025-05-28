@@ -1,0 +1,16 @@
+.news {
+    background-color: #fffefe;
+    color: #aaa;
+    padding: 60px 60px;
+    font-family: 'Arial', sans-serif;
+    margin:5%;
+    font-size: 16px;
+  }
+  
+  .news-container {
+    display: flex;
+    justify-content: space-between;
+   
+   
+    text-align: center;
+  }

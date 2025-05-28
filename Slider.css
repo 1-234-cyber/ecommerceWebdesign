@@ -1,0 +1,40 @@
+
+
+.container.mp-4 {
+    padding-top: 100px; 
+    position: relative;
+  }
+  
+  
+  .carousel-inner {
+    position: relative;
+  }
+  
+  .carousel-item img {
+    
+    object-fit: cover; 
+    width: 100%; 
+    height: 50%; 
+  }
+  
+ 
+  .carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+ 
+  .carousel-caption{
+    
+  color: #F5F5F5;
+  padding: 1rem;
+  border-radius: 8px;
+
+  }
+  .slider-section {
+    background: linear-gradient(to right, #d2d3d4); 
+    padding: 20px 0;
+  }
+  

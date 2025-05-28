@@ -1,0 +1,64 @@
+.boshop-footer {
+    background-color: #111;
+    color: #aaa;
+    padding: 40px 60px;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  
+  .footer-column {
+    flex: 1;
+    min-width: 200px;
+  }
+  
+  .footer-column h2.logo {
+    color: #E8EAAD; 
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .footer-column h4 {
+    color: #fff;
+    margin-bottom: 10px;
+    font-weight: normal;
+  }
+  
+  .footer-column p {
+    margin: 6px 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #aaa;
+  }
+  
+  .footer-bottom {
+    border-top: 1px solid #222;
+    margin-top: 40px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .footer-bottom p {
+    font-size: 13px;
+    color: #888;
+  }
+  
+  .footer-bottom .webicode {
+    color: white;
+    font-weight: 300;
+  }
+  
+  .card-images img {
+    height: 36px;
+  }
+  
